@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\expenseservice\\expenseservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|solutionrelative:expenseservice\\expenseservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|solutionrelative:travelservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\userservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\userservice\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|solutionrelative:userservice\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C821EE51-960E-474B-8D4A-361130596A0A}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\expenseservice\\expenseservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|solutionrelative:expenseservice\\expenseservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\travelservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\expenseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|solutionrelative:expenseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|solutionrelative:travelservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A74BDD70-4290-4241-B371-B64A8041DBA9}|ExpenseService\\ExpenseService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\expenseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -58,71 +78,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:01:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\Program.cs",
-              "RelativeDocumentMoniker": "ExpenseService\\Program.cs",
-              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\Program.cs",
-              "RelativeToolTip": "ExpenseService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Services\\AuthService.cs",
+              "RelativeToolTip": "UserService\\Services\\AuthService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAUwHQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:52:53.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Program.cs",
-              "RelativeDocumentMoniker": "TravelService\\Program.cs",
-              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Program.cs",
-              "RelativeToolTip": "TravelService\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:52:16.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\appsettings.json",
-              "RelativeDocumentMoniker": "ExpenseService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\appsettings.json",
-              "RelativeToolTip": "ExpenseService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-11T23:50:27.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\appsettings.json",
-              "RelativeDocumentMoniker": "TravelService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\appsettings.json",
-              "RelativeToolTip": "TravelService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-11T23:50:16.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\appsettings.json",
-              "RelativeDocumentMoniker": "UserService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\appsettings.json",
-              "RelativeToolTip": "UserService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-11T23:50:05.668Z",
+              "WhenOpened": "2026-06-12T15:00:21.459Z",
               "EditorCaption": ""
             },
             {
@@ -141,7 +122,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExpenseService",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Program.cs",
+              "RelativeDocumentMoniker": "TravelService\\Program.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Program.cs",
+              "RelativeToolTip": "TravelService\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:52:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\DTOs\\UserDTOs.cs",
+              "RelativeDocumentMoniker": "UserService\\DTOs\\UserDTOs.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\DTOs\\UserDTOs.cs",
+              "RelativeToolTip": "UserService\\DTOs\\UserDTOs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:57:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "UserService\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:56:12.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:55:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\appsettings.json",
+              "RelativeToolTip": "ExpenseService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T23:50:27.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\appsettings.json",
+              "RelativeToolTip": "TravelService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T23:50:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpenseService.csproj",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\ExpenseService.csproj",
               "RelativeDocumentMoniker": "ExpenseService\\ExpenseService.csproj",
               "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\ExpenseService.csproj",
@@ -153,8 +210,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TravelService",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseService\\Program.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\Program.cs",
+              "RelativeToolTip": "ExpenseService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:52:53.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T23:50:05.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TravelService.csproj",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\TravelService.csproj",
               "RelativeDocumentMoniker": "TravelService\\TravelService.csproj",
               "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\TravelService.csproj",
@@ -166,8 +247,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService",
+              "DocumentIndex": 13,
+              "Title": "UserService.csproj",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\UserService.csproj",
               "RelativeDocumentMoniker": "UserService\\UserService.csproj",
               "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\UserService.csproj",
@@ -179,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ExpenseService.cs",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\ExpenseService\\ExpenseService.cs",
               "RelativeDocumentMoniker": "ExpenseService\\ExpenseService.cs",
@@ -187,12 +268,11 @@
               "RelativeToolTip": "ExpenseService\\ExpenseService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:30:58.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T23:30:58.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "TravelService.cs",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\TravelService.cs",
               "RelativeDocumentMoniker": "TravelService\\TravelService.cs",
@@ -200,12 +280,11 @@
               "RelativeToolTip": "TravelService\\TravelService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:30:42.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T23:30:42.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\UserService\\UserService.cs",
               "RelativeDocumentMoniker": "UserService\\UserService.cs",
@@ -213,8 +292,7 @@
               "RelativeToolTip": "UserService\\UserService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:29:37.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T23:29:37.413Z"
             }
           ]
         }
