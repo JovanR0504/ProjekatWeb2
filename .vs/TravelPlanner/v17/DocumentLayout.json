@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\controllers\\travelplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|solutionrelative:travelservice\\controllers\\travelplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|solutionrelative:travelservice\\services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\controllers\\travelplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|solutionrelative:travelservice\\controllers\\travelplanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65A03332-0525-450C-931C-F95455A20214}|TravelService\\TravelService.csproj|c:\\users\\comp\\desktop\\projekatweb2\\travelplanner\\travelservice\\dtos\\traveldtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,30 +110,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TravelPlansController.cs",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Controllers\\TravelPlansController.cs",
               "RelativeDocumentMoniker": "TravelService\\Controllers\\TravelPlansController.cs",
               "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Controllers\\TravelPlansController.cs",
               "RelativeToolTip": "TravelService\\Controllers\\TravelPlansController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAIwH0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwKAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T12:43:58.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TravelService.cs",
               "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Services\\TravelService.cs",
               "RelativeDocumentMoniker": "TravelService\\Services\\TravelService.cs",
               "ToolTip": "C:\\Users\\Comp\\Desktop\\ProjekatWeb2\\TravelPlanner\\TravelService\\Services\\TravelService.cs",
               "RelativeToolTip": "TravelService\\Services\\TravelService.cs",
-              "ViewState": "AgIAABcBAAAAAAAAAAAIwDQBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAkwIgBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-13T12:42:29.006Z",
               "EditorCaption": ""
@@ -148,8 +148,7 @@
               "RelativeToolTip": "TravelService\\DTOs\\TravelDTOs.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAywFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:41:50.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:41:50.317Z"
             },
             {
               "$type": "Document",
@@ -161,8 +160,7 @@
               "RelativeToolTip": "TravelService\\Data\\TravelDbContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAywCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:41:03.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:41:03.644Z"
             },
             {
               "$type": "Document",
@@ -174,8 +172,7 @@
               "RelativeToolTip": "TravelService\\Models\\ChecklistItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:40:34.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:40:34.244Z"
             },
             {
               "$type": "Document",
@@ -187,8 +184,7 @@
               "RelativeToolTip": "TravelService\\Models\\Activity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:39:47.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:39:47.739Z"
             },
             {
               "$type": "Document",
@@ -200,8 +196,7 @@
               "RelativeToolTip": "TravelService\\Models\\Destinations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:39:09.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:39:09.092Z"
             },
             {
               "$type": "Document",
@@ -213,8 +208,7 @@
               "RelativeToolTip": "TravelService\\Models\\TravelPlan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:36:57.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T12:36:57.889Z"
             },
             {
               "$type": "Document",
@@ -250,8 +244,7 @@
               "RelativeToolTip": "TravelService\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAYwDYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:52:16.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T23:52:16.455Z"
             },
             {
               "$type": "Document",

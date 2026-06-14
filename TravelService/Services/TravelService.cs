@@ -305,5 +305,91 @@ namespace TravelService.Services
                 IsCompleted = c.IsCompleted
             }).ToList()
         };
+        // Checklist
+        public async Task<ChecklistItemResponseDto?> AddChecklistItemAsync(int planId, CreateChecklistItemDto dto, int userId)
+        {
+            var plan = await _context.TravelPlans
+                .FirstOrDefaultAsync(t => t.Id == planId && t.UserId == userId);
+
+            if (plan == null) return null;
+
+            var item = new ChecklistItem
+            {
+                TravelPlanId = planId,
+                Name = dto.Name,
+                IsCompleted = false
+            };
+
+            _context.ChecklistItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            return new ChecklistItemResponseDto
+            {
+                Id = item.Id,
+                TravelPlanId = item.TravelPlanId,
+                Name = item.Name,
+                IsCompleted = item.IsCompleted
+            };
+        }
+
+        public async Task<bool> ToggleChecklistItemAsync(int itemId, int userId)
+        {
+            var item = await _context.ChecklistItems
+                .Include(c => c.TravelPlan)
+                .FirstOrDefaultAsync(c => c.Id == itemId && c.TravelPlan.UserId == userId);
+
+            if (item == null) return false;
+
+            item.IsCompleted = !item.IsCompleted;
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<bool> DeleteChecklistItemAsync(int itemId, int userId)
+        {
+            var item = await _context.ChecklistItems
+                .Include(c => c.TravelPlan)
+                .FirstOrDefaultAsync(c => c.Id == itemId && c.TravelPlan.UserId == userId);
+
+            if (item == null) return false;
+
+            _context.ChecklistItems.Remove(item);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<ChecklistItemResponseDto?> AddChecklistItemPublicAsync(int planId, CreateChecklistItemDto dto)
+        {
+            var plan = await _context.TravelPlans.FirstOrDefaultAsync(t => t.Id == planId);
+            if (plan == null) return null;
+
+            var item = new ChecklistItem
+            {
+                TravelPlanId = planId,
+                Name = dto.Name,
+                IsCompleted = false
+            };
+
+            _context.ChecklistItems.Add(item);
+            await _context.SaveChangesAsync();
+
+            return new ChecklistItemResponseDto
+            {
+                Id = item.Id,
+                TravelPlanId = item.TravelPlanId,
+                Name = item.Name,
+                IsCompleted = item.IsCompleted
+            };
+        }
+
+        public async Task<bool> ToggleChecklistItemPublicAsync(int itemId)
+        {
+            var item = await _context.ChecklistItems.FirstOrDefaultAsync(c => c.Id == itemId);
+            if (item == null) return false;
+
+            item.IsCompleted = !item.IsCompleted;
+            await _context.SaveChangesAsync();
+            return true;
+        }
     }
 }

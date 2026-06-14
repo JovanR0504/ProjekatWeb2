@@ -122,5 +122,42 @@ namespace TravelService.Controllers
             var result = await _service.AddActivityPublicAsync(planId, dto);
             return result == null ? NotFound() : Ok(result);
         }
+        // Checklist
+        [HttpPost("{planId}/checklist")]
+        public async Task<IActionResult> AddChecklistItem(int planId, [FromBody] CreateChecklistItemDto dto)
+        {
+            var result = await _service.AddChecklistItemAsync(planId, dto, GetUserId());
+            return result == null ? NotFound() : Ok(result);
+        }
+
+        [HttpPatch("{planId}/checklist/{itemId}/toggle")]
+        public async Task<IActionResult> ToggleChecklistItem(int planId, int itemId)
+        {
+            var result = await _service.ToggleChecklistItemAsync(itemId, GetUserId());
+            return result ? NoContent() : NotFound();
+        }
+
+        [HttpDelete("{planId}/checklist/{itemId}")]
+        public async Task<IActionResult> DeleteChecklistItem(int planId, int itemId)
+        {
+            var result = await _service.DeleteChecklistItemAsync(itemId, GetUserId());
+            return result ? NoContent() : NotFound();
+        }
+
+        [HttpPost("public/{planId}/checklist")]
+        [AllowAnonymous]
+        public async Task<IActionResult> AddChecklistItemPublic(int planId, [FromBody] CreateChecklistItemDto dto)
+        {
+            var result = await _service.AddChecklistItemPublicAsync(planId, dto);
+            return result == null ? NotFound() : Ok(result);
+        }
+
+        [HttpPatch("public/{planId}/checklist/{itemId}/toggle")]
+        [AllowAnonymous]
+        public async Task<IActionResult> ToggleChecklistItemPublic(int planId, int itemId)
+        {
+            var result = await _service.ToggleChecklistItemPublicAsync(itemId);
+            return result ? NoContent() : NotFound();
+        }
     }
 }
